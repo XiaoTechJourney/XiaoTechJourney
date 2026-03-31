@@ -1,7 +1,7 @@
 <!-- Header (可选：横幅图) -->
 <!-- ![](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/header.png) -->
 
-## Hi, I'm <你的名字/英文名>
+## Hi, I'm Yuexiao Liu
 
 I’m a Master's student focused on **privacy-friendly sensing** and **non-visual human activity recognition** for smart-home scenarios.
 I like building end-to-end systems: sensing → modeling → application prototype.
@@ -12,7 +12,6 @@ I like building end-to-end systems: sensing → modeling → application prototy
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?logo=pytorch&logoColor=white)
 
 #### Tools & Environments
@@ -29,12 +28,11 @@ I like building end-to-end systems: sensing → modeling → application prototy
 ---
 
 ### Featured Projects
-- **Project A** — 一句话说明你做了什么 + 技术栈 + 亮点（可复现/有demo/有论文）
-- **Project B** — 一句话说明你做了什么（最好是“能运行/能展示”的）
-- **Project C** — 一句话说明你做了什么
+- **Project A** —  
+- **Project B** —  
+- **Project C** —  
 
 ---
 
 ### How to Reach Me
-- Email: you@example.com
-- Blog/Portfolio: <link>
+- Email: eric.yx.liu@outlook.com
