@@ -1,12 +1,18 @@
-## Contribution Snake
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=700&lines=Building+privacy-aware+sensing+systems;Working+on+sensor+data+and+ML;Interested+in+real-world+prototypes" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaoTechJourney/XiaoTechJourney/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XiaoTechJourney/XiaoTechJourney/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/XiaoTechJourney/XiaoTechJourney/output/github-snake.svg" />
-</picture>
+<p align="center">
+  M.S. Student at NAIST · Smart Home Sensing · Human Activity Recognition
+</p>
+
 
 # 👋 こんにちは、劉（りゅう）です。<p align="right"><a href="#english">English version here</a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Research-Smart%20Home%20Sensing-4c6ef5" />
+  <img src="https://img.shields.io/badge/ML-Sensor%20Data%20%26%20Time%20Series-12b886" />
+  <img src="https://img.shields.io/badge/Focus-Privacy--aware%20Systems-7950f2" />
+</p>
 
 奈良先端科学技術大学院大学（NAIST）先端科学技術研究科 情報科学領域  
 ユビキタスコンピューティング研究室に所属するM1です。  
@@ -60,13 +66,28 @@
 ### 📬 Contact
 - Email: eric.yx.liu@outlook.com
 
----
+## Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaoTechJourney/XiaoTechJourney/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XiaoTechJourney/XiaoTechJourney/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/XiaoTechJourney/XiaoTechJourney/output/github-snake.svg" />
+</picture>
 
 <a id="english"></a>
-<a id="english"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=700&lines=Building+privacy-aware+sensing+systems;Working+on+sensor+data+and+ML;Interested+in+real-world+prototypes" />
+</p>
+
+<p align="center">
+  M.S. Student at NAIST · Smart Home Sensing · Human Activity Recognition
+</p>
 
 # 👋 Hi, I'm Yuexiao Liu. <p align="right"><a href="#">日本語版はこちら</a></p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Research-Smart%20Home%20Sensing-4c6ef5" />
+  <img src="https://img.shields.io/badge/ML-Sensor%20Data%20%26%20Time%20Series-12b886" />
+  <img src="https://img.shields.io/badge/Focus-Privacy--aware%20Systems-7950f2" />
+</p>
 I am a first-year master's student in the Division of Information Science,  
 Graduate School of Science and Technology, Nara Institute of Science and Technology (NAIST),  
 and a member of the Ubiquitous Computing Systems Laboratory.  
@@ -120,3 +141,10 @@ which eventually connected to my current research.
 
 ### 📬 Contact
 - Email: eric.yx.liu@outlook.com
+
+## Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaoTechJourney/XiaoTechJourney/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XiaoTechJourney/XiaoTechJourney/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/XiaoTechJourney/XiaoTechJourney/output/github-snake.svg" />
+</picture>
