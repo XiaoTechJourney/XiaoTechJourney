@@ -1,3 +1,11 @@
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaoTechJourney/XiaoTechJourney/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XiaoTechJourney/XiaoTechJourney/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/XiaoTechJourney/XiaoTechJourney/output/github-snake.svg" />
+</picture>
+
 # 👋 こんにちは、劉（りゅう）です。<p align="right"><a href="#english">English version here</a></p>
 
 奈良先端科学技術大学院大学（NAIST）先端科学技術研究科 情報科学領域  
