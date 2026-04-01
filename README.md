@@ -14,20 +14,11 @@
   <img src="https://img.shields.io/badge/Focus-Privacy--aware%20Systems-7950f2" />
 </p>
 
-奈良先端科学技術大学院大学（NAIST）先端科学技術研究科 情報科学領域  
-ユビキタスコンピューティング研究室に所属するM1です。  
-研究テーマは、**対照学習・自己教師あり学習** を用いた  
-**スマートホーム向けのプライバシー保護型非視覚的人体活動認識** です。  
-
-学部卒業研究では、多シーン対応スマートホームセキュリティシステムの開発に取り組みました。  
-この経験を通じて、センサを用いたセンシング、組み込みシステム、MQTTによる機器連携に関心を持つようになり、現在はスマートホーム向けの非視覚的人体活動認識を研究しています。
-
-- 興味分野：センシングシステム、時系列データの表現学習、AIoTプロトタイピング  
-- 関心のある取り組み：実世界の課題を起点に、センシングから認識、システム連携、実装までを一貫してつなぐプロトタイプ開発
+日本の大学院で修士課程に在籍しており、人の暮らしと技術のあいだを自然につなぐ研究に関心があります。スマートホーム向けのセンシングシステム開発をきっかけに、現在はユーザのプライバシーに配慮した非視覚的人体活動認識や、センサ時系列データの表現学習に取り組んでいます。組み込み機器の制御から、機械学習モデルの設計・実装まで、実世界で役に立つシステムを一貫して形にしていくことを楽しんでいます。
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ よく使うもの
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,14 +43,34 @@
 
 ---
 
-### 🌟 注目プロジェクト
-- **🛡️ 多シーン対応スマートホームセキュリティシステム（ESP8266, MQTT）**  
-  MQ-2 と DHT11 を用いたファジィ火災検知、TTS音声通知、433MHz通信、サーボ／リレー制御、Gotifyアラートを組み合わせた分散型3ノードシステム。  
-  リポジトリ: `multiscene-smart-home-security-esp8266`
+### 🌟 公開しているもの
+- ### 🛡️ Multi-Scene Smart Home Security System
+  *ESP8266 / MQTT / embedded sensing*  
 
-- **🤖 PIR・環境センサによる自己教師ありHAR（BYOLスタイル）**  
-  時系列センサデータに対する自己教師あり学習パイプラインを構築し、プライバシーに配慮した活動認識を検討。  
-  リポジトリ: `smart-home-activity-ssl`
+  学部卒業研究で取り組んだ、スマートホーム向けの分散型セキュリティシステムです。  
+  MQ-2 と DHT11 を使ったファジィ火災検知、TTS 音声通知、433MHz 通信、  
+  サーボ / リレー制御、Gotify 通知などを組み合わせています。
+
+  このプロジェクトは、  
+  「センサで取る → 判定する → 家の中の機器を動かす → 通知する」  
+  という一連の流れを、自分の中で初めてちゃんと形にしたものでした。
+
+  Repository: `multiscene-smart-home-security-esp8266`
+
+- ### 🤖 Self-Supervised HAR with PIR and Environmental Sensors
+  *sensor time series / representation learning / privacy-aware HAR*
+
+  PIR や環境センサの時系列データを対象に、  
+  自己教師あり学習で活動認識に使える表現を作れないか試しているプロジェクトです。  
+  いわゆる「高性能な認識モデルを作る」だけでなく、  
+  **カメラを使わずに、どこまで実用的な認識ができるか**に興味があります。
+
+  まだ研究途中の内容も含みますが、  
+  同じ方向の実験を始めたい人にとって、  
+  前処理や学習の流れを追う参考になればうれしいです。
+
+  Repository: `smart-home-activity-ssl`
+
 
 ---
 
@@ -88,19 +99,7 @@
   <img src="https://img.shields.io/badge/ML-Sensor%20Data%20%26%20Time%20Series-12b886" />
   <img src="https://img.shields.io/badge/Focus-Privacy--aware%20Systems-7950f2" />
 </p>
-I am a first-year master's student in the Division of Information Science,  
-Graduate School of Science and Technology, Nara Institute of Science and Technology (NAIST),  
-and a member of the Ubiquitous Computing Systems Laboratory.  
-
-My research focuses on **privacy-preserving non-visual human activity recognition for smart homes**  
-using **contrastive learning and self-supervised learning**.  
-
-My technical journey began with my undergraduate capstone project, where I developed a multi-scene smart home security system.  
-That experience led me to a broader interest in sensing, embedded systems, MQTT-based device integration, and end-to-end implementation,  
-which eventually connected to my current research.
-
-- **Research interests:** sensing systems, time-series representation learning, and AIoT prototyping  
-- **What I value:** building end-to-end prototypes that connect sensing, recognition, system integration, and implementation, starting from real-world problems
+I am a master’s student in Japan, interested in building technology that fits naturally into everyday life and supports human well-being. My journey began with developing smart home sensing systems, and I am now focused on privacy-aware non-visual human activity recognition and representation learning for sensor time-series data. I enjoy working across the full stack, from embedded device control to machine learning model design and implementation, with an emphasis on building systems that are practical in the real world.
 
 ---
 
@@ -129,13 +128,30 @@ which eventually connected to my current research.
 ---
 
 ### 🌟 Featured Projects
-- **🛡️ Multi-Scene Smart Home Security System (ESP8266, MQTT)**  
-  A distributed three-node security system featuring fuzzy fire detection with MQ-2 and DHT11, TTS voice alerts, 433 MHz communication, servo/relay control, and Gotify notifications.  
-  Repository: `multiscene-smart-home-security-esp8266`
+### 🛡️ Multi-Scene Smart Home Security System
+**ESP8266 / MQTT / embedded sensing**
 
-- **🤖 Self-Supervised HAR with PIR and Environmental Sensors (BYOL-style)**  
-  A self-supervised learning pipeline for time-series sensor data, designed to explore privacy-preserving human activity recognition.  
-  Repository: `smart-home-activity-ssl`
+A distributed smart home security prototype developed during my undergraduate capstone.  
+It includes fuzzy fire detection with MQ-2 and DHT11, TTS alerts, 433 MHz communication,  
+servo/relay control, and Gotify notifications.
+
+This project was an important starting point for me because it connected the whole pipeline:  
+sensing, decision-making, device control, and notification in one actual system.
+
+Repository: `multiscene-smart-home-security-esp8266`
+
+---
+
+### 🤖 Self-Supervised HAR with PIR and Environmental Sensors
+**sensor time series / representation learning / privacy-aware HAR**
+
+A project exploring self-supervised learning pipelines for PIR and environmental sensor data,  
+with the goal of building practical human activity recognition systems without cameras.
+
+Some parts are still experimental, but I hope the repo can be useful  
+for others working on sensor-based HAR, time-series learning, or privacy-aware smart home systems.
+
+Repository: `smart-home-activity-ssl`
 
 ---
 
